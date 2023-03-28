@@ -1,0 +1,40 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/bg.jpg);
+    background-position: left ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    margin-top: 50px;
+    text-align: center;
+}
+.header_title{
+  
+    color: #e6a756;
+}
+.header_title2{
+    font-size: 5rem;
+    font-weight:100;
+    line-height: 4rem;
+    color: white;
+}
+.body_nav{
+    margin-top: 100px;
+    weight:100%;
+    background-color: rgba(47, 31, 0,0.8);
+
+}
+.body_nav_items{
+    margin: 0;
+    padding: 10px 0;
+    font-size:30px;
+ 
+}
+
+li{
+    display: inline;
+    color: white;
+
+}
